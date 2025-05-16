@@ -1,0 +1,7 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "types": []  // sobrescreve para nenhum tipo explícito
+  }
+}
